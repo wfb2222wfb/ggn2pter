@@ -1,5 +1,11 @@
 # ggn2pter GGn快捷转种工具![python](https://img.shields.io/badge/python-3.7-blue)![time](https://img.shields.io/github/last-commit/scatking/ggn2pter)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+# 重要提示 Important Note
+```diff
+- 请勿以任何方式在此求邀（包括但不限于issue、discussion、PR）
+
+- Plese don't ask for any invite here, this is not your place!
+```
 
 ## 简介
 
